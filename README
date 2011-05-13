@@ -1,0 +1,15 @@
+README – Created: April 2011
+Last Revised: May 2011
+
+Project: Cecil serializer
+
+This a cocoon serializer to be built against trunk. If you just want to use
+the serializer itself, you just need the jar file. The application uses the
+Java Advanced Imaging (JAI) library for handling images. The JAI achieves
+the greatest efficiency at the time of this writing using TIFF files.
+
+Python has met and maybe even surpassed Java's image capabilities, and I
+would like to port this to django at some point. The highlighting is based
+on having a lucene index for the terms on a page.
+
+art rhyno <projectconifer.ca>

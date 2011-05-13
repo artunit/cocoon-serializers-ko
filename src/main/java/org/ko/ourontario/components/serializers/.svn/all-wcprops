@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/asf/!svn/ver/587752/cocoon/trunk/blocks/cocoon-serializers/cocoon-serializers-impl/src/main/java/org/apache/cocoon/components/serializers
+END
+XHTMLSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/asf/!svn/ver/587752/cocoon/trunk/blocks/cocoon-serializers/cocoon-serializers-impl/src/main/java/org/apache/cocoon/components/serializers/XHTMLSerializer.java
+END
+XMLSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/asf/!svn/ver/587752/cocoon/trunk/blocks/cocoon-serializers/cocoon-serializers-impl/src/main/java/org/apache/cocoon/components/serializers/XMLSerializer.java
+END
+HTMLSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/asf/!svn/ver/587752/cocoon/trunk/blocks/cocoon-serializers/cocoon-serializers-impl/src/main/java/org/apache/cocoon/components/serializers/HTMLSerializer.java
+END

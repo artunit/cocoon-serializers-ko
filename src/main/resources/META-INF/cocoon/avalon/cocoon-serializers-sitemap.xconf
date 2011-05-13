@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+-->
+<!--+
+    |
+    +-->
+<map:components xmlns:map="http://apache.org/cocoon/sitemap/1.0">
+  <map:serializers>
+    <map:serializer name="tile"
+                    logger="sitemap.serializer.tile"
+                    src="org.ko.ourontario.components.serializers.CecilSerializer"
+                    mime-type="image/jpeg">
+      <encoding>UTF-8</encoding>
+    </map:serializer>
+  </map:serializers>
+</map:components>
